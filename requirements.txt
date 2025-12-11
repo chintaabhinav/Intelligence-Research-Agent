@@ -1,0 +1,18 @@
+numpy==1.26.4
+matplotlib==3.8.2
+tqdm==4.67.1
+
+# Optional but commonly used in your notebook
+pandas==2.2.2
+
+# If you used random pseudo agents / text generation
+beautifulsoup4==4.12.3
+requests==2.31.0
+lxml==4.9.3
+
+# Only required if running on GPU with PyTorch (your friend’s code uses this)
+# You can remove this if NOT using PyTorch.
+torch==2.2.0
+
+# If you used Jupyter notebooks for experimentation
+notebook
